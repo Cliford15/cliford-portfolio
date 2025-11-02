@@ -5,7 +5,7 @@ import {
   CardFooter,
   CardTitle,
 } from "@/components/ui/card";
-import { Button } from "@/components/ui/Button";
+import { Button } from "@/components/ui/button";
 import React, { useState } from "react";
 import Modal from "./Modal";
 import FadeInWhenVisible from "../FadeInWhenVisible";
