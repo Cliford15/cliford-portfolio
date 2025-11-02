@@ -1,0 +1,7 @@
+<!-- filename: cv-stacked.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title2">
+  <title id="title2">CV stacked logo</title>
+  <rect x="24" y="24" width="464" height="464" rx="72" fill="#111827"></rect>
+  <text x="50%" y="42%" text-anchor="middle" fill="#f9fafb" font-family="Inter, system-ui, Arial" font-size="160" font-weight="800">C</text>
+  <text x="50%" y="76%" text-anchor="middle" fill="#f9fafb" font-family="Inter, system-ui, Arial" font-size="160" font-weight="800">V</text>
+</svg>
